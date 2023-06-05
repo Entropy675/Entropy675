@@ -4,7 +4,7 @@
 
 <!--- who am i? good question --->
 <p align="center">
-    I am a passionate, nerdy software developer, hacker, and computer science student. I love learning new technologies and building cool stuff. I also like ripping the veil off of esoteric code and looking at it in all its naked glory... 
+    I am a passionate & nerdy software developer, hacker, and computer science student. I love learning new technologies and building cool stuff. I also like ripping the veil off of esoteric code and looking at it in all its naked glory... 
 <br>
 <br>
 <div align="center">
