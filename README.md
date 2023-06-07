@@ -1,5 +1,5 @@
 <!--- Begin First Section --->
-<h1 align="center"> Sibte Kazmi, AKA Entropy </h1>
+<h1 align="center"> Sibte Ali Kazmi </h1>
 <!--- add a Gif --->
 
 <!--- who am i? good question --->
