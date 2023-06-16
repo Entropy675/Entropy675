@@ -6,6 +6,7 @@
 <p align="center">
     I am a passionate & nerdy software developer, hacker, and computer science student. I love learning new technologies and building cool stuff. I also like to look at weird, esoteric code, figuring out all its secrets... 
 <br>
+    I’m currently learning Svelte & SvelteKit and am planning on using it for my website (coming soon), and I am looking to colaborate on any project that could use my skills!
 <br>
 <div align="center">
 
