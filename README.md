@@ -4,12 +4,12 @@
 
 <!--- who am i? good question --->
 <p align="center">
-    I am a passionate & nerdy software developer, hacker, and computer science student. 
+    I am a passionate software developer, hacker, and computer science student. 
     <br>
     <br>
     I love learning new technologies and building cool stuff. I also like to look at weird, esoteric code, figuring out all its secrets... 
 <br>
-    I’m currently learning Svelte & SvelteKit and am planning on using it for my website (coming soon), I am also looking to collaborate  on any project that could use my skills!
+    I’m currently learning Svelte & SvelteKit and am planning on using it to build my website (coming soon), I am also looking to collaborate on any project that could use my skills!
 <br>
 <div align="center">
 
