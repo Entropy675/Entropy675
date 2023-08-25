@@ -9,7 +9,10 @@
     <br>
     I love learning new technologies and building cool stuff.
 <br>
-    I’m currently learning Svelte & SvelteKit and am planning on using it to build my website (coming soon).
+    I’m currently learning:
+    
+        - Svelte & SvelteKit and am planning on using it to build my website (coming soon).
+        - CChessv2 Engine, a cross platform chess engine.
 <br>
 <div align="center">
 
