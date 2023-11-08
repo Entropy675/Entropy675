@@ -4,12 +4,10 @@
 
 <!--- who am i? good question --->
 <p align="center">
-    I am a passionate software developer, hacker, and computer science student. 
+    Software developer, hacker, and computer science/cybersecurity student. 
     <br>
-    <br>
-    I love learning new technologies and building cool stuff.
 <br>
-    I’m currently learning/building:
+    Currently learning/building:
     
         - Svelte & SvelteKit and am planning on using it to build my website (coming soon).
         - CChessv2 Engine, a cross platform chess engine.
