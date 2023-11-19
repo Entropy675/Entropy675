@@ -9,7 +9,7 @@
 <br>
     Currently learning/building:
     
-        - Svelte & SvelteKit and am planning on using it to build my website (coming soon).
+        - Svelte & SvelteKit.
         - CChessv2 Engine, a cross platform chess engine.
 <br>
 <div align="center">
