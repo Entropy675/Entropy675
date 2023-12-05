@@ -4,8 +4,7 @@
 
 <!--- who am i? good question --->
 <p align="center">
-    Computer Science/Cybersecurity student.
-    AKA Software developer, hacker.
+    Software developer, hacker, eternal student.
     <br>
 <br>
     Currently learning/building:
