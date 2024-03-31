@@ -9,8 +9,8 @@
 <br>
     Currently learning/building:
     
-        - Svelte & wxWidgets.
-        - CChessv2 Engine, a cross platform chess engine.
+        - Svelte 
+        - wxWidgets
 <br>
 <div align="center">
 
