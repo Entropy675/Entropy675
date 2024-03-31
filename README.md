@@ -9,7 +9,7 @@
 <br>
     Currently learning/building:
     
-        - Svelte & SvelteKit.
+        - Svelte & wxWidgets.
         - CChessv2 Engine, a cross platform chess engine.
 <br>
 <div align="center">
