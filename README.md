@@ -6,12 +6,6 @@
 <p align="center">
     Software developer, hacker, eternal student.
     <br>
-<br>
-    Currently learning/building:
-    
-        - Svelte 
-        - wxWidgets
-<br>
 <div align="center">
 
 [Email Me](mailto:sibteali@outlook.com)
