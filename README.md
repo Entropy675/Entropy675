@@ -4,7 +4,7 @@
 
 <!--- who am i? good question --->
 <p align="center">
-    Software developer, hacker, eternal student.
+    For fun developer, hacker, eternal student.
     <br>
 <div align="center">
 
